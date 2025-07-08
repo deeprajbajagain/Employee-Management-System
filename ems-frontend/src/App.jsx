@@ -1,9 +1,13 @@
 import './App.css'
+import Footer from './components/Footer'
+import Header from './components/Header'
+
 
 function App() {
   return (
     <>
-      <h4>Hello, world!</h4>
+      <Header/>
+      <Footer />
     </>
   )
 }

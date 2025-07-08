@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Comic+Neue:wght@300;700&family=Raleway:wght@400;600&display=swap');
+
+body {
+  font-family: 'Comic Neue', cursive;
+  font-size: 1.1rem;
+  color: #f8f9fa;
+  background-color: #0d6efd;
+}
+
+h1, h2, h3 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  color: #ffc107;
+  margin-bottom: 0.5rem;
+}
+
+a {
+  font-family: 'Comic Neue', cursive;
+  color: #ffeb3b;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: #fff176;
+}
